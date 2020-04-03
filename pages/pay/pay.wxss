@@ -1,0 +1,6 @@
+/* pages/pay/pay.wxss */
+.pay-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

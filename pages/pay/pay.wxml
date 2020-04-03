@@ -1,0 +1,7 @@
+<!--pages/pay/pay.wxml-->
+<view class="pay-container">
+  <text class="title">pages/pay/pay.wxml</text>
+  <text class="title">订单名称</text>
+  <button type="primary" size="default" loading="{{loading}}" plain="{{plain}}"
+        disabled="{{disabled}}"  bindtap="payMoney"> 付钱 </button>
+</view>
